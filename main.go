@@ -23,7 +23,6 @@ func main() {
 		summ1 := a + b + c
 		summ2 := d + e + f
 		if summ1 == summ2 {
-
 			count++
 		} else {
 			continue
