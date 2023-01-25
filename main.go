@@ -28,6 +28,6 @@ func main() {
 			continue
 		}
 	}
-	fmt.Println(count)
+	fmt.Println("Количество зеркальных билетов среди всех шестизначных номеров от 100000 до 999999: \n", count)
 
 }
